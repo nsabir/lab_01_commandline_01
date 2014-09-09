@@ -247,7 +247,7 @@ mkdir -p foo/bar/baz
 What command did you use?
 ----------
 
-cd - 
+cd - baz
 
 ==========
 24. Change your directory so that you're two directories up (foo)
